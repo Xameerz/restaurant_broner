@@ -34,8 +34,8 @@ API для управления бронированием столов в ре�
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
-cd restaurant-booking
+git clone https://github.com/Xameerz/restaurant_broner.git
+cd restaurant_broner
 ```
 
 2. Создайте файл `.env`:
@@ -167,4 +167,4 @@ MIT
 
 ## 👥 Авторы
 
-- Ваше имя - [@yourusername](https://github.com/yourusername) 
+- Ваше имя - [@Xameerz](https://github.com/Xameerz) 
