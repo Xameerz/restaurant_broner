@@ -167,4 +167,4 @@ MIT
 
 ## 👥 Авторы
 
-- Ваше имя - [@Xameerz](https://github.com/Xameerz) 
+- [@Xameerz](https://github.com/Xameerz) 
